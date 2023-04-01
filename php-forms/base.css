@@ -1,0 +1,17 @@
+form{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
